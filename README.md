@@ -20,4 +20,4 @@ One and a half hours.
 
 ## Discussion Questions:
 1. What does the bootstrap `display-4` class do?
-Primarily used for headings, as it formats the text for that class to be larger. 
+Primarily used for headings, as it formats the text for that class to be larger. Display-1 is huge and is likely used for front pages, while display-4 would make for a good heading for different sections of a page (i.e. titling different sections of a Wikipedia page).
