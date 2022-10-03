@@ -27,6 +27,9 @@ saveButton.addEventListener("click", function(saveButtonClickEvent){
     if(localStorage.getItem('nameInputValue') != ""){
         sendButton.disabled = false;
     }
+    else{
+        sendButton.disabled = true;
+    }
     console.log(localStorage.getItem('nameInputValue'));
 });
 
